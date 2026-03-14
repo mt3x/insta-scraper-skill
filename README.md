@@ -24,7 +24,7 @@ Escolha o tipo de post (carrosséis, imagens, reels), quantidade e engajamento m
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/insta-scraper-skill.git
+git clone https://github.com/mt3x/insta-scraper-skill.git
 cd insta-scraper-skill
 ```
 
@@ -104,6 +104,12 @@ Abra o Claude Code e digite:
 - Sua senha do Instagram **não é armazenada** — apenas um cookie de sessão é salvo localmente em `~/.config/instaloader/`
 - Nenhum dado é enviado para servidores externos
 - O Instaloader é open-source com +8k stars no GitHub
+
+## Guia completo do Instaloader
+
+Quer usar o Instaloader manualmente, sem o Claude Code? Ou quer entender todos os comandos e filtros disponíveis?
+
+Leia o **[Guia Completo do Instaloader](GUIA-INSTALOADER.md)** — cobre instalação, setup, filtros avançados (por tipo de post, engajamento, data), e exemplos prontos pra copiar e colar.
 
 ## Tecnologias
 
